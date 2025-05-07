@@ -81,4 +81,4 @@ Change the logic, commit, and Streamlit Cloud auto‑deploys the update.
 
 ## License
 
-MIT © 2025 Your Name
+MIT © 2025 Ryunosuke Noda
