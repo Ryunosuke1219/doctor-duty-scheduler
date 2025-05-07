@@ -53,16 +53,6 @@ Group,Name,1-1(Sun),1-2(Sun),2(Mon),3(Tue),...
 * **Group**: `0` = duty only, `1` = duty + on‑call capability
 * **0** = *can work*, **1** = *cannot work/NG*
 
-### ▶️ Quick try
-
-Clone & run locally with the bundled sample file:
-
-```bash
-git clone https://github.com/your‑username/doctor-duty-scheduler-app.git
-cd doctor-duty-scheduler-app
-pip install -r requirements.txt
-streamlit run app.py
-
 ---
 
 ## Folder Structure
