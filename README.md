@@ -53,6 +53,15 @@ Group,Name,1-1(Sun),1-2(Sun),2(Mon),3(Tue),...
 * **Group**: `0` = duty only, `1` = duty + on‑call capability
 * **0** = *can work*, **1** = *cannot work/NG*
 
+## ▶️ Quick try with sample
+
+1. アプリを起動し、  
+2. **[sample/availability_sample.csv](./sample/availability_sample.csv)** をアップロード  
+3. ダウンロードボタンで結果 Excel を取得
+
+```bash
+streamlit run app.py          # ローカル実行の場合
+
 ---
 
 ## Folder Structure
